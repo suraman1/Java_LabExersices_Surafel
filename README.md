@@ -2,9 +2,9 @@
 
 This repo contains three independent java applications.
 
-### Chat Application
-### Poker Game
-### Notepad Application
+Chat Application
+Poker Game
+Notepad Application
 
-## Author
-### Surafel Mesfin
+### Author
+Surafel Mesfin
