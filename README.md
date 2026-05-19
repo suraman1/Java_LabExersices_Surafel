@@ -1,6 +1,6 @@
 # Java Lab Exersices
 
-## This repo contains three independent java applications.
+This repo contains three independent java applications.
 
 ### Chat Application
 ### Poker Game
