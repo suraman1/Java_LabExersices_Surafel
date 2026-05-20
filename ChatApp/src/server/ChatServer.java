@@ -1,4 +1,4 @@
-BoB:
+
 package server;
 
 import java.io.*;
